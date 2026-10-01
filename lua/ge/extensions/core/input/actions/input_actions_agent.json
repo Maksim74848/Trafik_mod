@@ -1,0 +1,3 @@
+{
+    "toggleagentTrafficTool"     :{"cat":"debug", "order": 128, "ctx": "tlua", "onDown"  :"extensions.core_agentTrafficTool.toggle()", "actionMap": "Global", "title": "Toggle Agent Traffic Tool", "desc": "mmm shitters" }
+}
